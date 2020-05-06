@@ -4,7 +4,7 @@ This project has as an objective to generate scripts for the Seinfeld tv show ba
 
 # dlnd_tv_script_generation.ipynb
 
-This version doesn't have the number of layers to run on my machine, and doesn't achieve the loss of 3.5 required to pass this project
+This version doesn't achieve the loss of 3.5 required to pass this project, but it is a lighter model
 
 # dlnd_tv_script_generation_v2.ipynb
 
